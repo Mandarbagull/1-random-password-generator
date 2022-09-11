@@ -1,1 +1,1 @@
-# Mini-Projects
+# Random Password Generator
